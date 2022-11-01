@@ -2,7 +2,7 @@
 
 var _lodash = _interopRequireDefault(require("lodash.merge"));
 
-var _asyncStorage = _interopRequireDefault(require("@react-native-community/async-storage"));
+var _asyncStorage = _interopRequireDefault(require("@react-native-async-storage/async-storage"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
